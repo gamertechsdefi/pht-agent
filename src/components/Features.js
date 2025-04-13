@@ -128,7 +128,7 @@ export default function Intro() {
               Your crypto assets deserve the utmost protection, and PhoenixBot
               takes this responsibility seriously. With real-time monitoring
               capabilities, it actively scans the blockchain for any suspicious
-              activities related to your wallet. Whether it's an unauthorized
+              activities related to your wallet. Whether it&apos;s an unauthorized
               access attempt or an unusual transaction pattern, PhoenixBot
               promptly alerts you, empowering you to take immediate action and
               safeguard your funds.
@@ -157,7 +157,7 @@ export default function Intro() {
             </h1>
             <p className="">
               Navigating the complexities of the crypto world is made simple
-              with PhoenixBot's user-friendly interface. Accessible on various
+              with PhoenixBot&apos;s user-friendly interface. Accessible on various
               devices, this intuitive platform provides a seamless experience,
               allowing users to customize security preferences, set alerts, and
               receive notifications effortlessly.

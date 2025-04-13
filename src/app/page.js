@@ -99,7 +99,7 @@ const Homepage = () => {
 
           <div className='bg-black/50 border-orange-600 border-2 rounded-md px-8 py-4'>
             <div>
-              <h1 className='font-semibold text-2xl pb-4'>Choose Your Model</h1>
+              <h1 className='font-semibold text-2xl pb-4'>Endless DeFi opportunities</h1>
             </div>
             <p>Dive into decentralized finance with confidence. Your AI-powered GPT identifies high-yield staking, 
               liquidity pools, and emerging protocols on BNB Chain. Get concise, data-backed recommendations to 
