@@ -122,9 +122,9 @@ const Homepage = () => {
             <div>
               <h1 className='font-semibold text-2xl pb-4'>BNB Chain Latest News & Verification</h1>
             </div>
-            <p>Stay updated with BNB Chain&epos;s latest developments, from Lorentz and Maxwell upgrades slashing 
+            <p>Stay updated with BNB Chain&apos;s latest developments, from Lorentz and Maxwell upgrades slashing 
               block times to AI-driven smart contract automation. Our GPT verifies news authenticity, cross-checking 
-              on-chain data and official announcements, ensuring you get accurate, real-time insights into BNB Chain&epos;s 
+              on-chain data and official announcements, ensuring you get accurate, real-time insights into BNB Chain&apos;s 
               ecosystem advancements</p>
           </div>
 
@@ -132,7 +132,7 @@ const Homepage = () => {
             <div>
               <h1 className='font-semibold text-2xl pb-4'>BNB Chain AI Ecosystem Insights & Trends</h1>
             </div>
-            <p>Dive into BNB Chain’s thriving AI ecosystem, powered by BSC, opBNB, and Greenfield. Our GPT 
+            <p>Dive into BNB Chain&apos;s thriving AI ecosystem, powered by BSC, opBNB, and Greenfield. Our GPT 
               delivers real-time market analysis, tracking AI-driven DeFi, NFT, and memecoin trends. Stay 
               updated on projects like MyShell and ChainGPT, with verified insights into TVL growth, transaction 
               speeds, and innovations like Lorentz upgrades.</p>
